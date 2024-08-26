@@ -1,6 +1,6 @@
 # Expo/React Native Drag and Drop Example
 
-<img width="435" alt="image" src="https://github.com/user-attachments/assets/f9c97c87-2cf8-4eae-9582-1c6c13936645">
+![rndragndropexample](https://github.com/user-attachments/assets/e38b378f-fbdd-4e4d-8741-aba2795511b2)
 
 ## How to Run - Dev
 
